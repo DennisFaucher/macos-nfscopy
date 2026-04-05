@@ -36,7 +36,7 @@ nfscopy nfs://192.168.1.1/mnt/share/src.txt nfs://192.168.1.1/mnt/share/dst.txt
 ### 1. Clone this repo
 
 ```bash
-git clone [https://github.com/yourusername/nfscopy.git](https://github.com/DennisFaucher/macos-nfscopy.git)
+git clone https://github.com/DennisFaucher/macos-nfscopy.git
 cd macos-nfscopy
 ```
 
